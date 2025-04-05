@@ -78,6 +78,6 @@ int main() {
         std::cout << "\n" << yearAsStr << " is not an integer.";
     }
 
-    // Finally, display a message thanking the user for using the program.
+    // Finally, display a message thanking the user for using this program.
     std::cout << "\n" << "Thanks for using the program!";
 }
